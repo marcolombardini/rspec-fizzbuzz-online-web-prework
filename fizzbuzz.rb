@@ -8,5 +8,6 @@ def fizzbuzz(int)
  elsif sum = (3*15)
    return "FizzBuzz"
  else
+   puts
  end
 end
